@@ -1,0 +1,24 @@
+#main{
+	margin: 150px 100px;
+
+}
+
+.adminlogin #title{
+	margin-top: 100px;
+	text-align: center;
+	padding-bottom: 20px;
+
+}
+
+#login p a:hover{
+	color: black;
+	font-weight: 600;
+}
+#signup{
+	background: #88c79a;
+	border-radius: 7px;
+	color: #000;
+}
+#signup form{
+	padding: 20px;
+}
